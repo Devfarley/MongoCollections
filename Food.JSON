@@ -1,0 +1,17 @@
+[
+    {
+        "name": "(12 Cans) Bang Pina Colada",
+        "description": "Bang energy drinks deliver a safe, sugar-free, carb-free, crash-free, great-tasting, sustained energy beverage experience.",
+        "price": {"$numberDecimal": "23.76"}
+    },
+    {
+        "name": "Doritos Spicy Sweet Chili",
+        "description": "Tortilla Chips, Spicy Sweet Chili, King Size 3.25 oz (92.1 g) Export. When spicy meets sweet. your taste buds win.",
+        "price": {"$numberDecimal": "3.59"}
+    },
+    {
+        "name": "Applewood Smoked Thick Cut Bacon",
+        "description": "Farmland Naturally Applewood Smoked Thick Cut Bacon gives smoky Farmland goodness in a thicker slice.",
+        "price": {"$numberDecimal": "8.95"}
+    }
+]

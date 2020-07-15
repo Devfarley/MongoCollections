@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Short Sleeve Tee",
+        "description": "Dickies Big and Tall Men's Performance Pocket Tees are an essential staple for everyday casual attire.",
+        "price": {"$numberDecimal": "17.64"},
+        "isle": {"$numberDecimal": "5"}
+    },
+    {
+        "name": "Regular Fit Jeans",
+        "description": "These George Men's Regular Fit Jeans are a wardrobe essential. Made of durable 100% Cotton, these classic jeans are machine washable for easy care.",
+        "price": {"$numberDecimal": "10.44"},
+        "isle": {"$numberDecimal": "5"}
+    },
+    {
+        "name": "Hoodie",
+        "description": "Sure to achieve favorite hoodie status! Right away, you'll notice how plush and soft our Champion Men's Powerblend Fleece Pullover Hoodie feels without adding extra bulk.",
+        "price": {"$numberDecimal": "22.50"},
+        "isle": {"$numberDecimal": "5"}
+    },
+    {
+        "name": "Hoodie 2",
+        "description": "Hanes Hoodie.",
+        "price": {"$numberDecimal": "23.50"},
+        "isle": {"$numberDecimal": "6"}
+    }
+]

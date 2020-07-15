@@ -1,0 +1,17 @@
+[
+    {
+        "name": "ASUS Laptop",
+        "description": "Asus VivoBook Flip 14 is thinner and lighter than ever - with amazingly thin 0.7 inch profile, it weights just 3.3 pounds.",
+        "price": {"$numberDecimal": "599.99"}
+    },
+    {
+        "name": "Brother Printer",
+        "description": "The Brother HLL6200DW offers businesses fast, reliable, high-volume monochrome laser printing at a great price.",
+        "price": {"$numberDecimal": "219.99"}  
+    },
+    {
+        "name": "Bose Headphones",
+        "description": "urn any space into an instant office — or simply a place to unwind, listen to music, or make phone calls.",
+        "price": {"$numberDecimal": "299.00"}
+    }
+]
